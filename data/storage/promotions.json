@@ -1,0 +1,12 @@
+{
+  "category_discounts": {},
+  "happy_hour": {
+    "start": "16:00",
+    "end": "18:00",
+    "rate": 0.05
+  },
+  "bulk": {
+    "threshold": 5,
+    "rate": 0.05
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "sku": "MILK-1L",
+    "name": "A2 Full Cream Milk 1L",
+    "category": "Dairy",
+    "price": 2.99,
+    "active": true
+  },
+  {
+    "sku": "BREAD-W",
+    "name": "Whole Wheat Bread",
+    "category": "Bakery",
+    "price": 3.49,
+    "active": true
+  },
+  {
+    "sku": "CAKE-V",
+    "name": "Vanilla Cake",
+    "category": "Bakery",
+    "price": 4.0,
+    "active": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "540081448",
+    "name": "Jasper",
+    "lifetime_spend": 51.2,
+    "tier": "REGULAR"
+  },
+  {
+    "customer_id": "3292444949",
+    "name": "Junyi",
+    "lifetime_spend": 0.0,
+    "tier": "REGULAR"
+  }
+]

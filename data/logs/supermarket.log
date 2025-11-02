@@ -1,0 +1,17 @@
+2025-11-02 15:09:46 [INFO] supermarket: Logger initialized (daily rotation enabled)
+2025-11-02 15:09:46 [INFO] supermarket: GUI: refreshed products table
+2025-11-02 15:09:46 [INFO] supermarket: GUI: refreshed inventory table
+2025-11-02 15:09:46 [INFO] supermarket: GUI: refreshed customers table
+2025-11-02 15:09:46 [INFO] supermarket: GUI: low stock check -> []
+2025-11-02 15:09:46 [INFO] supermarket: GUI: refreshed sales summary: revenue=57.18, top5=[('MILK-1L', 22)]
+2025-11-02 15:09:46 [INFO] supermarket: GUI: promotions fields refreshed
+2025-11-02 15:10:20 [INFO] supermarket: GUI: registered new customer 3292444949 (Junyi)
+2025-11-02 15:10:20 [INFO] supermarket: GUI: refreshed customers table
+2025-11-02 15:10:45 [INFO] supermarket: GUI: refreshed customers table
+2025-11-02 15:10:48 [INFO] supermarket: GUI: low stock check -> []
+2025-11-02 15:10:54 [INFO] supermarket: GUI: low stock check -> []
+2025-11-02 15:11:08 [INFO] supermarket: GUI: inventory updated CAKE-V, delta=2, new_stock=2
+2025-11-02 15:11:08 [INFO] supermarket: GUI: refreshed inventory table
+2025-11-02 15:11:11 [INFO] supermarket: GUI: low stock check -> [('CAKE-V', 2)]
+2025-11-02 15:11:22 [INFO] supermarket: GUI: promotions loaded. Category={}, HH={'start': '16:00', 'end': '18:00', 'rate': 0.05}, Bulk={'threshold': 5, 'rate': 0.05}
+2025-11-02 15:11:22 [INFO] supermarket: GUI: promotions applied and pricing reloaded
